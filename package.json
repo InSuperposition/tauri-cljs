@@ -9,7 +9,7 @@
     "tauri": "tauri"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.5.5",
+    "@tauri-apps/cli": "^1.5.6",
     "shadow-cljs": "^2.25.9"
   },
   "dependencies": {
